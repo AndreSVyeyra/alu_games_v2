@@ -1,1 +1,1 @@
-![Imagen do projeto](img_readme/proejto)
+![Imagen do projeto](img_readme/projeto.png)
