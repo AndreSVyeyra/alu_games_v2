@@ -1,1 +1,1 @@
-# aluGames
+![Imagen do projeto](img_readme/proejto)
